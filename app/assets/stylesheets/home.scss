@@ -7,7 +7,7 @@
   position: relative;
   top: 7px;
   margin: 0 auto;
-  width: 16em;
+  width: 17em;
   background: rgba(153, 155, 158, 0.25);
   padding: 10px 15px 20px 15px;
 }
@@ -17,10 +17,11 @@
   text-align: center;
   margin-bottom: 0.7em;
 }
-.container-login .field {
+.container-login .field-login {
   margin: 0 auto;
   width: 13em;
   height: 5em;
+  margin-bottom: 5px;
 }
 .container-login .label,
 .container-login h2 {
@@ -37,7 +38,7 @@
 .container-login .input-login {
   background: #ffffff;
   border: transparent;
-  width: 13em;
+  width: 11em;
   padding-left: 7px;
   height: 2.3em;
   border-radius: 0.9em;
